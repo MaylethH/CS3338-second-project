@@ -1,0 +1,38 @@
+commit 1b6f0f0f8a5d48108fcf83a3bd962fd4f743aca7
+Author: MaylethH <136424529+MaylethH@users.noreply.github.com>
+Date:   Thu Sep 10 19:58:02 2026 -0700
+
+    Update index.html with favortive movie
+
+commit d3d946bbdfeee99fd28e464415879b0408a5c652
+Author: MaylethH <136424529+MaylethH@users.noreply.github.com>
+Date:   Thu Sep 10 19:53:38 2026 -0700
+
+    Update index.html
+
+commit a67f6fa5c2961d356c0f00cda45ce4cccb96beb0
+Author: MaylethH <136424529+MaylethH@users.noreply.github.com>
+Date:   Thu Sep 10 19:42:57 2026 -0700
+
+    Create README.md
+
+commit b9174d2cd938363c0793d65f58a590363ab20fc8
+Merge: 1d2bfc0 6a1ddb0
+Author: MaylethH <136424529+MaylethH@users.noreply.github.com>
+Date:   Thu Sep 10 19:39:36 2026 -0700
+
+    Merge pull request #1 from MaylethH/into-fill
+    
+    Changing the index.html file
+
+commit 6a1ddb01906b78e75f12920da73d082c7e918253
+Author: MaylethH <mayleth555@hotmail.com>
+Date:   Thu Sep 10 19:07:15 2026 -0700
+
+    Changing the index.html file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
